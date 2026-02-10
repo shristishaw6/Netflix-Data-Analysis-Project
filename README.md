@@ -72,3 +72,16 @@ Key analyses performed:
 - Drama and International content are among the most popular genres
 - Majority of content is targeted toward Adults
 - Significant growth in content additions after 2016
+
+---
+
+## 🚀 How to Run the Project
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/netflix-data-analysis.git
+2. Install required libraries
+
+   pip install pandas numpy matplotlib seaborn plotly
+3. Run the Jupyter Notebook
+
+   jupyter notebook
